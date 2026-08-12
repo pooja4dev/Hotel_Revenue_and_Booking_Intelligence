@@ -1,1 +1,1 @@
-# Hotel_revenue_intelligence
+# Hotel_revenue_and_Booking_intelligence
