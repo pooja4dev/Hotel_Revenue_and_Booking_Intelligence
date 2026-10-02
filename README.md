@@ -68,5 +68,6 @@ This is a simple simulation. It assumes the number of bookings stays the same wh
 1. Download `Hotel_Booking_Analytics_Dashboard.pbix`.
 2. Open it in Power BI Desktop.
 
-## Tools
-Power BI, DAX, SQL
+## Tools and skills
+- **Tools:** Power BI, DAX, SQL
+- **Skills:** Data Cleaning, KPI Dashboards, What-If Analysis, Data Visualization
